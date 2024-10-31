@@ -43,3 +43,5 @@ For the problem statement given above, perform Requirements discovery and identi
 ### 1.2 System Analysis & Design
 
 Perform System Analysis & Design, and create a Domain model UML Class diagram for the software solution. In your model, make sure to include the appropriate attributes for each class, and the relationships and multiplicities and roles (where appropriate). 
+
+![UML Class Diagram](iamges/diagram.png)
